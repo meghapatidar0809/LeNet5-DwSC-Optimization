@@ -12,5 +12,8 @@ This project implements the **LeNet-5** architecture using **PyTorch** and train
 - **Python, PyTorch, NumPy, Matplotlib**  
 
 ### Dataset  
-- **MNIST**: A dataset of handwritten digits (0-9) with **60,000 training** and **10,000 testing** images.  
+- **MNIST**: A dataset of handwritten digits (0-9) with **60,000 training** and **10,000 testing** images.
+
+### Reference
+- **Paper**: https://ieeexplore.ieee.org/document/726791
 
