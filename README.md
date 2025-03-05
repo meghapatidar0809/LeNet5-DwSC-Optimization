@@ -1,7 +1,7 @@
 # LeNet-5 Implementation & Depthwise Separable Convolution Optimization  
 
 ### Overview  
-This project implements the **LeNet-5** architecture using **PyTorch** and trains it on the **MNIST** dataset. Additionally, we replace standard convolutional layers with **depthwise separable convolutions** to analyze their impact on model performance.  
+This project implements the **LeNet-5** architecture using **PyTorch** and trains it on the **MNIST** dataset. Additionally, I replace standard convolutional layers with **depthwise separable convolutions** to analyze their impact on model performance.  
 
 ### Features  
 - **LeNet-5 Implementation**: Standard architecture trained on MNIST.  
